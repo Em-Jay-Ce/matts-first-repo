@@ -1,0 +1,43 @@
+body {
+	background-color: #52CAF2;
+	color: #CBD1D4;
+	font-family: Arial, "Times New Roman", Times, serif;
+	font-size: 18px;	
+}
+
+h1, h2, h3, h4, h5	{
+	color: #2F607A;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h1	{
+	font-size: 40px;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+h2	{
+	font-size: 25px;
+	font-weight: 900;
+}
+
+a {
+	color: red;
+	text-decoration: red;
+}
+
+.lighten	{
+	background-color: #BBBBBB;
+}
+
+.greener	{
+	background-color: green;
+}
+
+.ulined	{
+	border-bottom: 5px solid #000000;
+}
+
+img	{
+	border: 5px double #000000;
+}
